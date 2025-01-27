@@ -1,4 +1,4 @@
-# Flappy-Bird-
+# Flappy Bird (Created In Pygame Using Python)
 Flappy Bird Recreated in PyGame using Python. 
 
 
